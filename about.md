@@ -20,7 +20,7 @@ permalink: /about/
 + 教育经历：电子科技大学
 + 研究方向：同时定位与建图
 + Github: https://github.com/Doflamingo-swj
-+ Email：{{ a1632160425@foxmail.com }}
++ Email：1632160425@qq.com
 #### 证书
 
 Copyright&nbsp;&copy;&nbsp;{{ site.author }}
